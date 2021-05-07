@@ -5,7 +5,7 @@ This a recopilation of concepts about the cloud of Azure
 Proporciona la informática en la nube, como la alta disponibilidad, la escalabilidad y la distribución geográfica.
 # Diferencias 
 entre los gastos de capital y los gastos operativos en un escenario de informática en la nube.
-# Ctegorías 
+# Categorías 
 IaaS
 PaaS
 SaaS
