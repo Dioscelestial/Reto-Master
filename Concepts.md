@@ -25,10 +25,6 @@ Recuperación ante desastres de recursos con copias de seguridad.
 ### Tolerancia a fallos
 
 Los datos se pueden implementar en centros regionales de todo el mundo.
-# ##  Servicios de Azure
-<img align="center"  alt="logo"  width="350px" src=../Recursos/LogoAzure.png  />
-<br />
-<br />
 
 ### Compute Services
 
