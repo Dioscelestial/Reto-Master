@@ -9,7 +9,27 @@ Prestación de Servicios Informáicos a través de internet.
 
 
 # Ventajas
-Proporciona la informática en la nube, como la alta disponibilidad, la escalabilidad y la distribución geográfica.
+
+### Escalabilidad
+ * Vertical: Capacidad informática de aumentar RAM o CPU a una maquina virtual
+ 
+ * Horizontal: Capacidad informática para aumentar instancias de un recurso, como maquinas virtuales adicionales a una configuración.
+
+### Elasticidad
+
+Si las aplicaciones en la nube se pueden configurar para escalado automático (Las aplicaciones siempre disponen de los recursos que necesitan).
+
+### Agilidad
+
+Si los recursos de la nube se pueden aplicar rápidamente a medida que cambias los requisitos de la aplicación.
+
+### Alta diponibilidad
+
+Recuperación ante desastres de recursos con copias de seguridad.
+
+### Tolerancia a fallos
+
+Los datos se pueden implementar en centros regionales de todo el mundo.
 # Diferencias 
 entre los gastos de capital y los gastos operativos en un escenario de informática en la nube.
 # Categorías 
