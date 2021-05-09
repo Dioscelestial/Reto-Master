@@ -32,9 +32,12 @@ Recuperación ante desastres de recursos con copias de seguridad.
 Los datos se pueden implementar en centros regionales de todo el mundo.
 # Diferencias 
 entre los gastos de capital y los gastos operativos en un escenario de informática en la nube.
+
 # Categorías 
-IaaS
-PaaS
-SaaS
+
+|     PaaS     |     Saas     |     IaaS     |
+|--------------|--------------|--------------|
+| Plataforma como servicio (Plataform as a Service). Entorno para construir, probar e implementar aplicaciones de software. Ayuda a crear aplicaciones rapidamente sin centrarse en la infraestructura subyacente. Nosotros administramos la aplicación.<img align="center" alt="LinkdeIn Ramiro" width="220px" src="../Recursos/casaamueblada.jpg" /> | Software como servicio (Software as a Service). Software alojado y administrado para usuarios finales. Se conectan y usan aplicaciones basadas en la nube a través de internet. Como Microsoft 365. El proveedor de los servicios es el encargado de la administración.<img align="center" alt="Casa vacia" width="220px" src="../Recursos/vacia.png" /> | Infraestructura como servicio (Infrastructure as a service). Categoría más básica de computación en la nube. Servicio de pago por uso donde se alquilan servidores, maquinas virtuales, almacenamiento, redes y sistemas operativos de operadores en la nube. La responsabilidad es mayor para nosotros.<img align="center" alt="Obra negra" width="220px" src="../Recursos/dos-ingeniero-sitio-construccion-hombre-negocios_51191-32.png" /> |
+
 # Tipos de informática en la nube
 pública, privada e híbrida
