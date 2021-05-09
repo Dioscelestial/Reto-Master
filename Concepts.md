@@ -3,7 +3,7 @@ This a recopilation of concepts about the cloud of Azure
 # ¿ What is the cloud ?
 Prestación de Servicios Informáicos a través de internet.
 
-# Ventajas
+## Ventajas
 
 ### Escalabilidad
  * Vertical: Capacidad informática de aumentar RAM o CPU a una maquina virtual
@@ -26,6 +26,8 @@ Recuperación ante desastres de recursos con copias de seguridad.
 
 Los datos se pueden implementar en centros regionales de todo el mundo.
 
+##  Servicios de Azure
+
 ### Compute Services
 
 Servicios de computo o procesamiento bajo demanda para aplicaciones usadas en la nube.
@@ -37,8 +39,6 @@ Unos ejemplos serian:
 * iCloud de Apple
 
 * Google Drive de Google
-
-#  Servicios de Azure
 
 ### Networking Services
 
@@ -69,13 +69,13 @@ Tiene como objetivo ayudar a los desarrolladores a crear aplicaciones inteligent
 ### DevOps Azure
 Es un conjunto de herramientas y servicios que te ayuda a administrar tus proyectos de desarrollo de software en todas sus fases.
 
-# Categorías 
+## Categorías 
 
 |     PaaS     |     Saas     |     IaaS     |
 |--------------|--------------|--------------|
 | Plataforma como servicio (Plataform as a Service). Entorno para construir, probar e implementar aplicaciones de software. Ayuda a crear aplicaciones rapidamente sin centrarse en la infraestructura subyacente. Nosotros administramos la aplicación.| Software como servicio (Software as a Service). Software alojado y administrado para usuarios finales. Se conectan y usan aplicaciones basadas en la nube a través de internet. Como Microsoft 365. El proveedor de los servicios es el encargado de la administración. | Infraestructura como servicio (Infrastructure as a service). Categoría más básica de computación en la nube. Servicio de pago por uso donde se alquilan servidores, maquinas virtuales, almacenamiento, redes y sistemas operativos de operadores en la nube. La responsabilidad es mayor para nosotros.|
 
-# Tipos de informática en la nube
+## Tipos de informática en la nube
 | Nube Publica | Nube Privada | Nube Hibrida |
 |--------------|--------------|--------------|
 |Los recursos son priopiedad de los servicios de un tercero.| Los recursos son de la organización en su base de datos. | Combina ambas, permite que las aplicaciones se ejecuten en la ubicación más adecuada. |
